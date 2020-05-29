@@ -1,24 +1,20 @@
 ## Welcome to GitHub Pages
 
 
-<div>
-<table>
-<tr>
-    <td><center>
-    <img src="images/gif/test_F1.gif" width="300" alt="F1" /><img src="images/gif/test_F1.gif" width="300" alt="F1" /><img src="images/gif/test_F1.gif" width="300" alt="F1" />
-    </center>
-    <center>
-    图7 K-means算法流程图
-    </center></td> 
-    <td><center>
-    <img src="images/gif/test_F1.gif" width="300" alt="F1" />
-    </center>
-    <center>
-    图6 K-means算法流程图
-    </center></td> 
-<tr>
-</table>
-</div>
+
+<td><center>
+<img src="images/gif/test_F1.gif" width="300" alt="F1" /><img src="images/gif/test_F2.gif" width="300" alt="F2" /><img src="images/gif/test_F3.gif" width="300" alt="F3" />
+</center>
+<center>
+F1 F2 F3
+</center></td> 
+<td><center>
+<img src="images/gif/test_F4.gif" width="300" alt="F4" /><img src="images/gif/test_F5.gif" width="300" alt="F5" /><img src="images/gif/test_F6.gif" width="300" alt="F6" />
+</center>
+<center>
+F4 F5 F6
+</center></td> 
+
 
 
 
