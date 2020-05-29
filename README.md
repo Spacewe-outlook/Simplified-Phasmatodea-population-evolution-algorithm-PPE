@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 
+
 <table>
     <tr>
         <td><center>
@@ -8,8 +9,16 @@
         <center>
         图7 K-means算法流程图
         </center></td> 
+        <td><center>
+        <img src="images/gif/test_F1.gif" width="300" alt="F1" />
+        </center>
+        <center>
+        图6 K-means算法流程图
+        </center></td> 
     <tr>
 </table>
+
+
 
 
 You can use the [editor on GitHub](https://github.com/Spacewe-outlook/PPE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
