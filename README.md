@@ -2,7 +2,11 @@
 
 
 
+### Particle search process 
+
 The number of particles is 20, the number of iterations is 30, using 30 benchmark functions of CEC2014.
+
+The red dot indicates the position of a solution, and the green dot indicates the final position of `k` solutions in `Ho`.
 
 <td><center>
 <img src="images/gif/test_F1.gif" width="260" alt="F1" /> <img src="images/gif/test_F2.gif" width="260" alt="F2" /> <img src="images/gif/test_F3.gif" width="260" alt="F3" />
