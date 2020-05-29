@@ -1,5 +1,17 @@
 ## Welcome to GitHub Pages
 
+<table>
+    <tr>
+        <td><center>
+        <img src="images/gif/test_F1.gif" width="300" alt="F1" />
+        </center>
+        <center>
+        图7 K-means算法流程图
+        </center></td> 
+    <tr>
+</table>
+
+
 You can use the [editor on GitHub](https://github.com/Spacewe-outlook/PPE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
