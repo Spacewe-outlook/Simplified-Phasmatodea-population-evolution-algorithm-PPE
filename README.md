@@ -2,20 +2,20 @@
 
 
 
-    <tr>
-        <td><center>
-        <img src="images/gif/test_F1.gif" width="300" alt="F1" />
-        </center>
-        <center>
-        图7 K-means算法流程图
-        </center></td> 
-        <td><center>
-        <img src="images/gif/test_F1.gif" width="300" alt="F1" />
-        </center>
-        <center>
-        图6 K-means算法流程图
-        </center></td> 
-    <tr>
+<tr>
+    <td><center>
+    <img src="images/gif/test_F1.gif" width="300" alt="F1" />
+    </center>
+    <center>
+    图7 K-means算法流程图
+    </center></td> 
+    <td><center>
+    <img src="images/gif/test_F1.gif" width="300" alt="F1" />
+    </center>
+    <center>
+    图6 K-means算法流程图
+    </center></td> 
+<tr>
 
 
 
