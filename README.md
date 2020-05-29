@@ -3,13 +3,13 @@
 
 
 <td><center>
-<img src="images/gif/test_F1.gif" width="230" alt="F1" /><img src="images/gif/test_F2.gif" width="230" alt="F2" /><img src="images/gif/test_F3.gif" width="230" alt="F3" />
+<img src="images/gif/test_F1.gif" width="250" alt="F1" /><img src="images/gif/test_F2.gif" width="250" alt="F2" /><img src="images/gif/test_F3.gif" width="250" alt="F3" />
 </center>
 <center>
 F1 F2 F3
 </center></td> 
 <td><center>
-<img src="images/gif/test_F4.gif" width="240" alt="F4" /><img src="images/gif/test_F5.gif" width="240" alt="F5" /><img src="images/gif/test_F6.gif" width="240" alt="F6" />
+<img src="images/gif/test_F4.gif" width="260" alt="F4" /><img src="images/gif/test_F5.gif" width="260" alt="F5" /><img src="images/gif/test_F6.gif" width="260" alt="F6" />
 </center>
 <center>
 F4 F5 F6
